@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello! 👋
+#This is Manika
 <!--
 **CodeMosaic7/CodeMosaic7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Innovative tech enthusiast, driven by a passion for creating and exploring cutting-edge technologies.
+Constantly learning, experimenting, and contributing to projects that push the boundaries of what's possible.
+
+
+
