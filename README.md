@@ -4,10 +4,15 @@ Innovative tech enthusiast, passionate about creating and exploring cutting-edge
 🌟 What I'm all about:
 
 🔭 Currently working on web apps, AI models, and exciting full-stack projects like Meetline.
+
 🌱 Constantly learning and diving deeper into React, Django, and AI/ML.
-💡 Exploring the synergy of 3D rendering with React Three Fiber, AI-driven safety tools, and sign language analysis for accessibility.
+
+💡 Exploring the synergy of 3D rendering with React Three Fiber, AI-driven safety tools, and sign language analysis for accessibility
+.
 🤝 Open to collaborations on innovative tech projects, especially in AI, web development, and community-focused applications.
+
 💬 Let's talk about web development, AI, and building scalable systems!
+
 ⚡ Fun fact: I find joy in both structuring algorithms and designing intuitive interfaces—bridging logic with creativity.
 
 Tech Stack
