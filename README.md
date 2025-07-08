@@ -122,18 +122,6 @@ class CurrentProjects:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![Manika's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMosaic7&show_icons=true&theme=tokyonight&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMosaic7&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 > 🚀 **AI Supply Chain Manager** - Intelligent agent with real-time analytics and automated decision-making  
