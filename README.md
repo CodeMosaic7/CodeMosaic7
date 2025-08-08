@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I am a enthusiast To ne techie passionate about **creating innovative and intelligent solutions** and exploring cutting-edge technologies. I thrive on both transforming complex data into actionable insights, building AI-powered applications, and crafting seamless user experiences that make a real impact. 
+I am a enthusiast techie passionate about **creating innovative and intelligent solutions** and exploring cutting-edge technologies. I thrive on both transforming complex data into actionable insights, building AI-powered applications, and crafting seamless user experiences that make a real impact. 
 
 From analyzing complex datasets to architecting conversational AI systems, I bridge the gap between data science and practical applications. My journey spans full-stack development, advanced analytics, and intelligent automation - always with an eye on solving real-world challenges.
 
