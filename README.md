@@ -1,4 +1,4 @@
-# Hello! I'm Manika aka CodeMosaic7 👋
+# Hello! I'm Manika aka CodeMosaic7 
 
 
 ## 🚀 About Me
@@ -18,7 +18,7 @@ From analyzing complex datasets to architecting conversational AI systems, I bri
 - 🤝 **Open to Collaborate:** **AI projects**, **data analytics platforms**, **chatbot development**, and **open-source initiatives**
 - 💬 **Let's Talk About:** **Web development**, **AI agents**, **data visualization**, **conversational AI**, and **scalable analytics solutions**
 
-⚡ **Fun Fact:** I love turning messy data into beautiful insights and complex business logic into conversational AI - making technology more human and accessible!
+**Fact:** I love turning messy data into beautiful insights and complex business logic into conversational AI - making technology more human and accessible!
 
 ---
 
